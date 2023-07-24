@@ -1,3 +1,4 @@
+// Linguagem de tipagem fraca
 let qualquer = 'Legal'
 console.log(qualquer)
 console.log(typeof qualquer)
