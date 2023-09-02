@@ -7,5 +7,5 @@ console.log(concatenacao, template)
 
 console.log(`1 + 1 = ${1 + 1}`)
 
-const up = texto => texto.toUpperCase()
+const up = texto => texto.toUpperCase() // criação de função 
 console.log(`Ei... ${up('cuidado')}!`)
